@@ -15,7 +15,7 @@ A custom PCB designed to control eight LEDs using a 74HC595 shift register. This
 <h2>Design</h2>
 
 </p>
-<img src="https://i.imgur.com/N16D4Js.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jaHihYK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <img src="https://i.imgur.com/BQvx1xy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
