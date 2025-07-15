@@ -10,11 +10,14 @@ A custom PCB designed to control eight LEDs using a 74HC595 shift register. This
 - Clearly labeled VCC, GND, Data (D), Clock (C), and Latch (L) pins
 - Custom silkscreen graphics and logo
 - Designed in EasyEDA
+- Ordered from JLCPCB (Currently being manufactured, updates coming soon)
 
 <h2>Images</h2>
 
 </p>
-<img src="https://i.imgur.com/WO07pY0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N16D4Js.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <img src="https://i.imgur.com/BQvx1xy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<b>Note:</b> The PCB design files and documentation are complete, and boards have been ordered from JLCPCB. Once the PCBs arrive, I’ll assemble and test the circuit. This repository will be updated with photos, assembly notes, and validation results.
