@@ -12,7 +12,7 @@ A custom PCB designed to control eight LEDs using a 74HC595 shift register. This
 - Designed in EasyEDA
 - Ordered from JLCPCB (Currently being manufactured, updates coming soon)
 
-<h2>Images</h2>
+<h2>Design</h2>
 
 </p>
 <img src="https://i.imgur.com/N16D4Js.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
