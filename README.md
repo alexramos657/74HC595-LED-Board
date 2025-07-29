@@ -40,3 +40,26 @@ After some waiting, the PCBs arrived and are ready to assemble.
 <img src="https://i.imgur.com/lLq1fgv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/WTXCKfz.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Testing</h2>
+
+The board was connected to an Arduino Uno R3 via five jumper wires:
+- D → Arduino digital pin (Serial Data)
+- C → Arduino digital pin (Shift Clock)
+- L → Arduino digital pin (Latch Clock)
+- VCC → 5V
+- GND → GND
+
+Using a basic shift register control sketch in the Arduino IDE, the board was tested by cycling through LED patterns. The 74HC595 correctly received serial data and latched output to the LEDs, confirming that the board logic was functioning as expected.
+
+Each LED lit in sequence, confirming:
+
+- All outputs (Q0–Q7) from the 74HC595 are working
+- Resistors are limiting current correctly
+- Pin labeling and connections matched the intended design
+
+This validates the PCB as a reliable LED driver module, and it's now ready for use in future Arduino or embedded projects.
+
+<img src="https://i.imgur.com/9DvzgXa.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Xn3aEui.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
