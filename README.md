@@ -20,4 +20,20 @@ A custom PCB designed to control eight LEDs using a 74HC595 shift register. This
 </p>
 <img src="https://i.imgur.com/BQvx1xy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<b>Note:</b> The PCB design files and documentation are complete, and boards have been ordered from JLCPCB. Once the PCBs arrive, I’ll assemble and test the circuit. This repository will be updated with photos, assembly notes, and validation results.
+<h2>PCBs Delivered</h2>
+
+<img src="https://i.imgur.com/eFC487j.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+After some waiting, the PCBs arrived and are ready to assemble.
+
+<img src="https://i.imgur.com/7HkdDvI.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/0DL7Tvk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/JnXnjYF.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Assembly</h2>
+
+<img src="https://i.imgur.com/lLq1fgv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/WTXCKfz.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
