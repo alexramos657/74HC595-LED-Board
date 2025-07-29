@@ -34,6 +34,9 @@ After some waiting, the PCBs arrived and are ready to assemble.
 
 <h2>Assembly</h2>
 
+<img src="https://i.imgur.com/mH2lP0I.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <img src="https://i.imgur.com/lLq1fgv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/WTXCKfz.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
