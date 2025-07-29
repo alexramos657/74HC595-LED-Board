@@ -22,9 +22,9 @@ A custom PCB designed to control eight LEDs using a 74HC595 shift register. This
 
 <h2>PCBs Delivered</h2>
 
-<img src="https://i.imgur.com/eFC487j.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 After some waiting, the PCBs arrived and are ready to assemble.
+
+<img src="https://i.imgur.com/eFC487j.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/7HkdDvI.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -34,8 +34,11 @@ After some waiting, the PCBs arrived and are ready to assemble.
 
 <h2>Assembly</h2>
 
-<img src="https://i.imgur.com/mH2lP0I.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The PCB was hand-assembled using through-hole components. Each of the 8 LEDs is connected to one output of the 74HC595 shift register through a current-limiting resistor.
 
+The header pins for power and control signals (D, C, L, VCC, GND) were soldered to the top-right corner of the board, following the silkscreen legend. The board was assembled with 60/40 Tin-Lead solder and a temperature-controlled iron.
+
+<img src="https://i.imgur.com/mH2lP0I.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/lLq1fgv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
